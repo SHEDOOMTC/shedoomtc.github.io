@@ -2,6 +2,7 @@
 layout: post
 title: "The Power of a Single Mail"
 ---
+![A singgle mail story](https://media.licdn.com/dms/image/v2/D4D22AQGb0OirL2Peqw/feedshare-shrink_2048_1536/B4DZpCkBzgJcAw-/0/1762053333017?e=1769040000&v=beta&t=hjMZMwiCIktIlcdJPTEgDFvAQwL5Vq9164ENz_6_gI8)
 
 A single mail brought me here unplanned!
 
