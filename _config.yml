@@ -3,11 +3,11 @@ description: "Computational chemistry, workflows, ideas and personal reflections
 theme: minima
 minima:
   social_links: []
-  header_pages:
-    - index.md
-    - about.md
-    - post.md
-    - research.md
-    - projects.md
-    - tutorials.md
+header_pages:
+   - index.md
+   - about.md
+   - post.md
+   - research.md
+   - projects.md
+   - tutorials.md
     
