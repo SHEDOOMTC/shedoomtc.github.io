@@ -1,6 +1,6 @@
 title: "Shadrach's Blog"
 description: "Computational chemistry, workflows, ideas and personal reflections"
-theme: cayman
+theme: minima
 minima:
   header_pages:
     - index.md
