@@ -5,4 +5,5 @@ minima:
   header_pages:
     - index.md
     - about.md
+    - blog.md
     - _posts/2025-01-01-my-first-post.md
