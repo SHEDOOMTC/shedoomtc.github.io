@@ -1,7 +1,6 @@
 ---
 layout: home
-title: "Welcome to my blog"
-permalink: /Welcome/
+title: "Welcome"
 ---
 
 
