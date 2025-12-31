@@ -1,8 +1,7 @@
 ---
 layout: home
-title: "Welcome"
+title: "Welcome to my blog"
 ---
 
-# Welcome to my blog
 
 Abundance lies in the Future.
