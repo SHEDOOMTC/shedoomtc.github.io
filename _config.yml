@@ -1,3 +1,8 @@
 title: "Shadrach's Blog"
 description: "Computational chemistry, workflows, ideas and personal reflections"
 theme: cayman
+minima:
+  header_pages:
+    - index.md
+    - about.md
+    - _posts/2025-01-01-my-first-post.md
