@@ -3,7 +3,7 @@ layout: home
 title: "Welcome"
 ---
 
-Abundance lies in the FUTURE!
+**Abundance lies in the FUTURE!** ----------- *Prof. N. Ekekwe*
 
 All the articles in our Magna Carta points to one thing and only one thing:
 
@@ -18,7 +18,7 @@ However, there is a beacon, a clarion call, a signal, pointing to the FUTURE
 It is a FUTURE  of boundless possibilities;
 one of limitless adventure and exploration
 
-A future where we stretch the laws of physics to the limit; where we apply scientific progress to the boundaries of unspeakable wealth and health; It is this feature we seek; this is the feature we will pursue…
+A future where we stretch the laws of physics to the limit; where we apply scientific progress to the boundaries of unspeakable wealth and health; It is this future we seek; this is the future we will pursue…
 
-Because, when we get there, we will suddenly realize that all the limitations around us were in our minds and never were realities
+Because, when we get there, we will suddenly realize that all the limitations around us were in our minds and were never realities
 
