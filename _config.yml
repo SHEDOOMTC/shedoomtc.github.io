@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/themes/IMG-20250505-WA0057.png"
+  avatar           : "/images/themes/IMG-20250505-WA0057.jpg"
   name             : "Shadrach Eze"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
